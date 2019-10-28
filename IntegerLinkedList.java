@@ -1,6 +1,6 @@
 /*
  * Name: Andrew Dunham
- * Student Number: V00908230
+ * Student Number:
  */
 
 public class IntegerLinkedList implements IntegerList{
